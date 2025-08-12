@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-My name is Santiago Neira Sejean<br>🔭 I’m currently working on personal proyects and building a portfolio<br>🌱 I’m currently learning React with JS<br>
+My name is Santiago Neira Sejean and im a software engineer in procees (im still in uni)<br>🔭 I’m currently working on personal proyects and building a portfolio<br>🌱 I’m currently learning React with JS<br>
 
 
 ## 🌐 Socials:
